@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>67824797891-4e0tsohnm9bol9gco1nu4bqj51ptp2le.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.67824797891-4e0tsohnm9bol9gco1nu4bqj51ptp2le</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>67824797891-0bps8sj4qljlpq0huckfs90jo62uikbf.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAUEJHrpEGKtSo7MRSbDfHqraEmfx527Ts</string>
+	<key>GCM_SENDER_ID</key>
+	<string>67824797891</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.caleg</string>
+	<key>PROJECT_ID</key>
+	<string>mancal-8d900</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mancal-8d900.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:67824797891:ios:fa20af19d809c160da3a76</string>
+	<key>DATABASE_URL</key>
+	<string>https://mancal-8d900-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
